@@ -1,0 +1,35 @@
+#firstpanel{
+	background:url(Earth%20for%20EMTA%20Hero.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+    height: 250px;
+}
+
+.docsubcategory, .secondsubcategory
+{
+    display: none;
+}
+
+h1, h3
+{
+    color: #00C972;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+#homelink
+{
+  color: #00C972;  
+}
+
+.collapsebtn
+{
+    color: #00C972;
+}
+
+#footer
+{
+    text-align: center;
+    padding-top: 10px;
+}
